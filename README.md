@@ -1,17 +1,18 @@
 ## Hey, Im Reii
+DAM student | Aspiring game developer
 
+I'm studying to become a game developer and building small Godot prototypes to learn by doing.
 
-<!--
-**reiizamo/reiizamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- Turn-based combat system inspired by classic monster-battle RPGs (Godot)
+- A Vampire Survivors-like game in Godot (so far: player movement)
 
-Here are some ideas to get you started:
+## Skills
+- **Game dev:** Godot (GDScript)
+- **Languages:** Java, Python, Dart
+- **Mobile:** Flutter (Dart)
+- **Web:** HTML, CSS, JavaScript, React
+- **Databases:** SQL
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
